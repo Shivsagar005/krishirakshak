@@ -1,0 +1,6 @@
+{
+  "name": "KrishiRakshak AI",
+  "description": "AI-powered Crop Health Intelligence and Early Warning Network for India. Detect Early, Predict Risk, Protect Every Crop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
